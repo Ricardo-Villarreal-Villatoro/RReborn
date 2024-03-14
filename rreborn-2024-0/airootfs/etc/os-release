@@ -1,0 +1,5 @@
+NAME=RREBORN
+ID=rreborn
+ID_LIKE=arch
+BUILD_ID=rolling
+ANSI_COLOR="0;36"
