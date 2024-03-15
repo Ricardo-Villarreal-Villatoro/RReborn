@@ -3,5 +3,5 @@ The purpose of RReborn os is to provide simplicity, yet customability, provide f
 
 Proyect started on 2021, published for the first time on 2024
 # Redes: 
-Instagream: 
+ 
 - 
